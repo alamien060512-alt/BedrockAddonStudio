@@ -166,68 +166,14 @@ It also highlights common mistakes with descriptive warnings, making it a useful
 
 ---
 
-## 🐞 Report a Bug
-
-Found an issue or have a suggestion? Your feedback helps improve Bedrock Addon Studio!
-
-### How to Report
-
-| Method | Link / Instructions |
-|--------|---------------------|
-| **Discord Server** | [Join our Discord](https://discord.com/invite/m2UdYmjyXE) – Report bugs in `#report` |
-| **GitHub Issues** | *(Coming soon)* |
-| **Direct Message** | Contact the developer via Discord DM |
-
-### What to Include in Your Bug Report
-
-To help us fix issues quickly, please include:
-
-📋 Bug Description:
-(What happened? What did you expect to happen?)
-
-🔄 Steps to Reproduce:
-
-Go to...
-
-Click on...
-
-See error...
-
-📸 Screenshots/Recording:
-(If applicable)
-
-🖥️ Environment:
-
-Browser: (Chrome/Firefox/Safari/Edge)
-
-Device: (PC/Mac/Mobile)
-
-OS: (Windows/MacOS/iOS/Android)
-
-📦 Affected Panel:
-(Manifest / Entities / Items / Blocks / Scripts / etc.)
-
-🔧 Generated JSON (if relevant):
-(Paste the output that caused the issue)
-### Known Issues & Roadmap
-
-| Issue | Status |
-|-------|--------|
-| None currently reported | ✅ Active monitoring |
-
-**Feature requests are also welcome!** Suggest new panels, templates, or tools you'd like to see.
-
-
----
 
 ## 🙏 Contributing
 
 Contributions are welcome! If you'd like to help improve Bedrock Addon Studio:
 
-1. **Report bugs** via Discord (link above)
-2. **Suggest features** in the `#suggestions` channel
-3. **Share templates** – useful JSON snippets or script patterns
-4. **Spread the word** – tell other addon creators about the tool
+1. **Report bugs** - Coming soon
+2. **Suggest features** - Coming soon
+3. **Spread the word** – tell other addon creators about the tool
 
 ---
 
@@ -239,5 +185,3 @@ All generated JSON output follows Mojang's specification for Minecraft: Bedrock 
 ---
 
 **Start building your next Bedrock addon today – no installation, no setup, just your browser and creativity.**
-
-**🐞 Found a bug?** [Report it on Discord](https://discord.com/invite/m2UdYmjyXE)
