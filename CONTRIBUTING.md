@@ -1,4 +1,4 @@
-# Contributing to Minecraft Addon Builder
+# Contributing to Minecraft Addon Studio
 
 Thanks for your interest in contributing! This tool is a single-file HTML app for generating Minecraft Bedrock Edition `.mcaddon` packages. Contributions of all kinds are welcome.
 
